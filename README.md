@@ -12,6 +12,6 @@ Sou Engenheiro de Dados focado na construção de pipelines de dados robustos, a
 
 ---
 
-- **LinkedIn:** [linkedin.com/in/helderestevao](https://://linkedin.com/in/helderestevao)
+- **LinkedIn:** [://linkedin.com/in/helderestevao](https://://linkedin.com/in/helderestevao)
 
 ---
