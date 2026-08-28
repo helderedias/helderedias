@@ -4,7 +4,11 @@ Sou Engenheiro de Dados focado na construção de pipelines de dados robustos, a
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** SQL, Python
+- **Linguagens:**
+![SQL](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML](https://shields.io)
 - **Bancos de Dados & Armazenamento:** PostgreSQL
 - **DevOps, Infra & Cloud:** Docker, AWS
 - **Controle de Versão:** Git
