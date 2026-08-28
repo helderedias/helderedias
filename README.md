@@ -4,9 +4,7 @@ Sou Engenheiro de Dados focado na construção de pipelines de dados robustos, a
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:**
-
-`SQL` | `Python` | `JavaScript` | `HTML5`
+- **Linguagens:** `SQL` | `Python` | `JavaScript` | `HTML5`
 
 - **Bancos de Dados & Armazenamento:** PostgreSQL
 - **DevOps, Infra & Cloud:** Docker, AWS
